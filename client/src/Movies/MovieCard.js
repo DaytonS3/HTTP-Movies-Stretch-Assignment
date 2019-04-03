@@ -1,4 +1,5 @@
 import React from 'react';
+import '../index.css'
 
 const MovieCard = props => {
   const { title, director, metascore, stars } = props.movie;

@@ -75,3 +75,25 @@ body {
   color: red;
   text-align: center;
 }
+
+.movie-create{
+  margin-left: 50px;
+}
+
+.movie-card {
+  width: 100%;
+  background: #86cdfa;
+  border-radius: 10px;
+}
+
+.movie-list{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+
+.card {
+  width: 40%;
+  text-decoration: none;
+  color: black;
+}
